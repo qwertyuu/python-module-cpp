@@ -1,0 +1,1 @@
+g++ -std=c++17 -o bin/module Source.cpp -I/usr/include/python3.8
